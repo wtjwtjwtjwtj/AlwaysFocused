@@ -1,7 +1,7 @@
 /**
  * @name AlwaysFocused
  * @author Wtjwtjwtjwtj
- * @description AlwaysFocused forces Discord to treat the app as always focused, keeping GIFs animated when tabbed out. This can be useful when you are using split screen on one monitor, or if you have multiple monitors and Discord is on one of the screens.
+ * @description AlwaysFocused forces Discord to treat the app as always focused, keeping GIFs animated when tabbed out. This can be useful when you are using split screen on one monitor, or if you have multiple monitors and Discord is on one of the screens. This has been made for, and only tested for the BetterDiscord Client. Please don't be expected for this to work on any other clients that arent BetterDiscord.
  * @version 3.0.0
  */
 
