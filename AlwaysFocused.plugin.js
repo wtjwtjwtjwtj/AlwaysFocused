@@ -1,7 +1,7 @@
 /**
  * @name AlwaysFocused
  * @author Wtjwtjwtjwtj
- * @description Forces Discord to treat the app as always focused, keeping GIF avatars animating in Voice Channels when tabbed out.
+ * @description AlwaysFocused forces Discord to treat the app as always focused, keeping GIFs animated when tabbed out. This can be useful when you are using split screen on one monitor, or if you have multiple monitors and Discord is on one of the screens.
  * @version 3.0.0
  */
 
