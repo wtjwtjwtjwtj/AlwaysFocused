@@ -1,4 +1,5 @@
-#AlwaysFocused
+# AlwaysFocused
+
 AlwaysFocused forces Discord to treat the app as always focused, keeping GIF animating in when tabbed out.
 # PLEASE READ THIS PART!!
 This has been made for, and only tested for the BetterDiscord Client. Please don't be expected for this to work on any other clients that arent BetterDiscord.
